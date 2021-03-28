@@ -249,7 +249,6 @@ Some useful project and tools.
 - [kubernetes-operator](https://github.com/jenkinsci/kubernetes-operator) - Kubernetes native Jenkins Operator.
 - [nats-streaming-operator](https://github.com/nats-io/nats-streaming-operator) - NATS Streaming Operator.
 - [memcached-operator](https://github.com/ianlewis/memcached-operator) - A Kubernetes operator for memcached.
-- [cass-operator](https://github.com/datastax/cass-operator) - The DataStax Kubernetes Operator for Apache Cassandra.
 - [scylla-operator](https://github.com/scylladb/scylla-operator) - The Kubernetes Operator for ScyllaDB.
 - [postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes.
 - [postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes from high availability Postgres clusters to full-scale database-as-a-service.
