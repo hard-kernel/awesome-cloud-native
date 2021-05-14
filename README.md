@@ -62,11 +62,6 @@ Some useful project and tools.
 - [triton-kubernetes](https://github.com/joyent/triton-kubernetes) - Triton Kubernetes is a multi-cloud Kubernetes solution.
 - [Fleet](https://github.com/rancher/fleet) - Manage large fleets of Kubernetes clusters.
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service.
-- [machine-controller-manager-provider-metal](https://github.com/metal-stack/machine-controller-manager-provider-metal) - gardener machine controller manager for metal-stack.
-- [gardener-extension-provider-metal](https://github.com/metal-stack/gardener-extension-provider-metal) - Implementation of the gardener-extension-controller for metal-stack.
-- [machine-controller](https://github.com/kubermatic/machine-controller)
-- [baremetal-operator](https://github.com/metal3-io/baremetal-operator) - Bare metal host provisioning integration for Kubernetes.
-- [cluster-api-provider-metal3](https://github.com/metal3-io/cluster-api-provider-metal3)
 - [Clusterman](https://github.com/Yelp/clusterman) - Cluster Autoscaler for Kubernetes and Mesos.
 - [k8s-cronjob-prescaler](https://github.com/microsoft/k8s-cronjob-prescaler) - Kubernetes operator that prescales cluster nodes to ensure a cronjobs start exactly on time.
 - [cluster-proportional-autoscaler](https://github.com/kubernetes-sigs/cluster-proportional-autoscaler) - Kubernetes Cluster Proportional Autoscaler Container.
@@ -155,14 +150,9 @@ Some useful project and tools.
 
 ## Storage
 
-- [csi-driver-host-path](https://github.com/kubernetes-csi/csi-driver-host-path) - A sample CSI Driver that creates a local directory as a volume on a single node.
-- [csi-driver-lvm](https://github.com/metal-stack/csi-driver-lvm)
 - [TopoLVM](https://github.com/topolvm/topolvm) - Capacity-aware CSI plugin for Kubernetes.
-- [local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes.
-- [dynamic-pv-scaler](https://github.com/opstree/dynamic-pv-scaler) - A golang based Kubernetes application which can scale volume dynamically.
 - [external-resizer](https://github.com/kubernetes-csi/external-resizer) - watche Kubernetes PersistentVolumeClaims objects and triggers controller side expansion operation.
 - [COSI](https://github.com/kubernetes-sigs/container-object-storage-interface-provisioner-sidecar) - Container Object Storage Interface provisioner responsible to interface.
-- [csi-s3](https://github.com/ctrox/csi-s3) - A Container Storage Interface for S3.
 - [Longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed block storage built on and for Kubernetes.
 - [Stork](https://github.com/libopenstorage/stork) - Storage Orchestration Runtime for Kubernetes.
 - [Piraeus](https://github.com/piraeusdatastore/piraeus) - High Available Datastore for Kubernetes.
@@ -184,31 +174,6 @@ Some useful project and tools.
 
 - [nri](https://github.com/containerd/nri) - This project is a WIP for a new, CNI like, interface for managing resources on a node for Pods and Containers.
 - [Krustlet](https://github.com/deislabs/krustlet) - Kubernetes Rust Kubelet.
-- [tensile-kube](https://github.com/virtual-kubelet/tensile-kube) - A Kubernetes Provider.
-
-## Application Delivery
-
-- [TAPP](https://github.com/tkestack/tapp) - Another great app kind for Kubernetes.
-- [application](https://github.com/kubernetes-sigs/application) - Application metadata descriptor CRD.
-- [Kedge](https://github.com/kedgeproject/kedge) - Simple Concise & Declarative Kubernetes Applications.
-- [kubegen](https://github.com/errordeveloper/kubegen) - simple way to describe Kubernetes resources in a structured way but without new syntax or magic.
-- [Nuwa](https://github.com/yametech/nuwa) - kubernetes CRD resource.
-- [pdb-controller](https://github.com/mikkeloscar/pdb-controller) - Controller for adding default Pod Disruption Budgets to Kubernetes Deployments and StatefulSets.
-- [kured](https://github.com/weaveworks/kured) - Kubernetes Reboot Daemon.
-- [ExtendedDaemonSet](https://github.com/DataDog/extendeddaemonset) - Kubernetes Extended Daemonset controller.
-- [Cronjobber](https://github.com/hiddeco/cronjobber) - Cronjobber is a cronjob controller for Kubernetes with support for time zones.
-- [Agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
-
-## Deployment Engine
-
-- [flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator.
-- [Rio](https://github.com/rancher/rio) - Application Deployment Engine for Kubernetes.
-- [k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained.
-- [Keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm、DaemonSet、StatefulSet & Deployment updates.
-- [stackset-controller](https://github.com/zalando-incubator/stackset-controller) - Opinionated StackSet resource for managing application life cycle and traffic switching in Kubernetes.
-- [Kanarini](https://github.com/nilebox/kanarini) - Canary Deployment Controller for Kubernetes.
-- [kapp](https://github.com/vmware-tanzu/carvel-kapp) - kapp is a simple deployment tool focused on the concept of Kubernetes application.
-- [Ketch](https://github.com/shipa-corp/ketch) - Ketch is an application delivery framework.
 
 ## Autoscaler
 
@@ -256,7 +221,6 @@ Some useful project and tools.
 - [solr-operator](https://github.com/apache/solr-operator) - Kubernetes Operator for Apache Solr.
 - [druid-operator](https://github.com/druid-io/druid-operator) - Druid Kubernetes Operator.
 - [elastic-jupyter-operator](https://github.com/tkestack/elastic-jupyter-operator) - Cloud-native way to provide elastic Jupyter Notebook services on Kubernetes.
-- [fuxi](https://github.com/yametech/fuxi) - Kubernetes Control Plane.
 
 ## Framework
 
