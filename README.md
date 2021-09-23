@@ -182,7 +182,6 @@ Some useful project and tools.
 - [Space Cloud](https://github.com/spacecloud-io/space-cloud) - Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes.
 - [Keptn](https://github.com/keptn/keptn) - A message-driven control-plane for application delivery and automated operations.
 - [Brigade](https://github.com/brigadecore/brigade) - Event-based Scripting for Kubernetes.
-
 - [Couler](https://github.com/couler-proj/couler) - Unified Interface for Constructing and Managing Workflows on different workflow engines.
 - [Cyclone](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources.
 
@@ -232,7 +231,6 @@ Some useful project and tools.
 ## OPS
 
 - [Tini](https://github.com/krallin/tini) - A tiny but valid init for containers.
-
 - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers.
 - [OOMHero](https://github.com/ricardomaraschini/oomhero) - Kubernetes sidecar for memory usage tracking.
 - [kubernetes-oom-event-generator](https://github.com/xing/kubernetes-oom-event-generator) - Generate a Kubernetes Event when a Pod's container has been OOMKilled.
@@ -246,7 +244,6 @@ Some useful project and tools.
 - [Goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests Just Right.
 - [governor](https://github.com/keikoproj/governor) - A collection of cluster reliability tools for Kubernetes.
 - [pod-reaper](https://github.com/ptagr/pod-reaper) - A kubernetes operator that reaps pods that have reached their lifetime.
-
 - [Jamadar](https://github.com/stakater/Jamadar) - A kubernetes controller which cleans up cluster left-overs.
 - [draino](https://github.com/planetlabs/draino) - Automatically cordon and drain Kubernetes nodes based on node conditions.
 - [astrolabe](https://github.com/vmware-tanzu/astrolabe) - Data protection framework for complex applications.
@@ -254,7 +251,6 @@ Some useful project and tools.
 - [Stash](https://github.com/stashed/stash) - Backup your Kubernetes Stateful Applications.
 - [ksync](https://github.com/ksync/ksync) - Sync files between your local system and kubernetes cluster.
 - [Kubecost](https://github.com/kubecost/cost-model) - Cross-cloud cost allocation models for workloads running on Kubernetes.
-
 - [podpreset-webhook](https://github.com/redhat-cop/podpreset-webhook) - A helpful micro-framework for writing Kubernetes Admission Controllers.
 - [mutating-trace-admission-controller](https://github.com/kubernetes-retired/mutating-trace-admission-controller) - Enables experimental tracing of kubernetes object lifecycle.
 - [cert-injection-webhook](https://github.com/vmware-tanzu/cert-injection-webhook) - Provides a Kubernetes webhook to inject CA certificates and proxy environment variables into pods.
@@ -275,7 +271,6 @@ Some useful project and tools.
 - [K8stream](https://github.com/last9/k8stream) - Processing kubenetes events stream.
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
 - [Kvass](https://github.com/tkestack/kvass) - A Prometheus horizontal auto-scaling solution.
-
 - [prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus.
 - [Promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus.
 - [Promscale](https://github.com/timescale/promscale) - An open-source analytical platform for Prometheus metrics.
@@ -313,7 +308,6 @@ Some useful project and tools.
 - [Dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security Helping build the Best-Practice Docker Image Easy to start.
 - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers images hosts and repositories.
 - [Kubei](https://github.com/Portshift/kubei) - A flexible Kubernetes runtime scanner scanning images of worker and Kubernetes nodes providing accurate vulnerabilities assessment.
-
 - [Portieris](https://github.com/IBM/portieris) - A Kubernetes Admission Controller for verifying image trust with Notary.
 - [Karydia](https://github.com/karydia/karydia) - Kubernetes Security Walnut.
 - [Kube-Scan](https://github.com/octarinesec/kube-scan) - Octarine k8s cluster risk assessment tool.
